@@ -61,8 +61,14 @@
     }
 
     .logo {
-      font-size: 18px;
-      font-weight: bold;
+       height:35px;
+       width: 50px;
+       background: url('./logo.PNG');
+       background-position: center;
+       background-size: cover ;
+       object-fit: cover;
+       overflow:hidden ;
+      
     }
 
     .search-box input {
@@ -302,7 +308,9 @@
 <body>
   <div class="top-bar">
     <div class="left-side">
-      <div class="logo">Pinterest</div>
+      <div class="logo">
+
+      </div>
     </div>
     <div class="right-side">
       <div class="search-box">
@@ -314,7 +322,7 @@
   </div>
 
   <div class="tab-bar">
-    <div class="tab active">All</div>
+    <div class="tab active">Hammasi</div>
     <div class="tab">Toy</div>
     <div class="tab">Naxorgi osh</div>
     <div class="tab">Tug'ilgan kun</div>
@@ -408,7 +416,7 @@
 
       const filtered = data.filter(item =>
         item.type === 'video' &&
-        (category === 'All' || item.category === category) &&
+        (category === 'Hammasi' || item.category === category) &&
         (
           item.name.toLowerCase().includes(term) ||
           item.id.toLowerCase().includes(term)
