@@ -1,0 +1,96 @@
+[
+  
+  
+  
+{
+    "id": "001",
+    "name": "Toy Video",
+    "price": "$50",
+    "type": "video",
+    "category": "Toy",
+    "videoUrl": "./Video.mp4",
+    "inviteUrl": "https://example.com/invite1",
+    "desc":"Nikox oq uchun taklifnoma"
+  },
+  {
+  "id": "002",
+  "name": "Toy taklifnomasi",
+  "price": "$30",
+  "type": "video",
+  "category": "Naxorgi osh",
+  "videoUrl": "Video 2.mp4",
+  "inviteUrl": "https://example.com/invite2",
+  "desc": "Nahirgi osh uchun taklifnoma"
+},
+
+ {
+   "id": "003",
+   "name": "Toy taklifnomasi",
+   "price": "$30",
+   "type": "video",
+   "category": "Naxorgi osh",
+   "videoUrl": "Video 3.mp4",
+   "inviteUrl": "https://abu0127.github.io/taklifnoma-2.0.0/",
+   "desc": "Nahirgi osh uchun taklifnoma"
+ },
+
+  {
+   "id": "004",
+   "name": "Toy taklifnomasi",
+   "price": "$30",
+   "type": "video",
+   "category": "Naxorgi osh",
+   "videoUrl": "Video 2.mp4",
+   "inviteUrl": "https://example.com/invite2",
+   "desc": "Nahirgi osh uchun taklifnoma"
+ }
+ ,
+  {
+   "id": "003",
+   "name": "Toy taklifnomasi",
+   "price": "$30",
+   "type": "video",
+   "category": "Naxorgi osh",
+   "videoUrl": "Video 3.mp4",
+   "inviteUrl": "https://abu0127.github.io/taklifnoma-2.0.0/",
+   "desc": "Nahirgi osh uchun taklifnoma"
+ },
+
+  {
+   "id": "004",
+   "name": "Toy taklifnomasi",
+   "price": "$30",
+   "type": "video",
+   "category": "Naxorgi osh",
+   "videoUrl": "Video 2.mp4",
+   "inviteUrl": "https://example.com/invite2",
+   "desc": "Nahirgi osh uchun taklifnoma"
+ }
+ ,
+  {
+   "id": "003",
+   "name": "Toy taklifnomasi",
+   "price": "$30",
+   "type": "video",
+   "category": "Naxorgi osh",
+   "videoUrl": "Video 3.mp4",
+   "inviteUrl": "https://abu0127.github.io/taklifnoma-2.0.0/",
+   "desc": "Nahirgi osh uchun taklifnoma"
+ },
+
+  {
+   "id": "004",
+   "name": "Toy taklifnomasi",
+   "price": "$30",
+   "type": "video",
+   "category": "Naxorgi osh",
+   "videoUrl": "Video 2.mp4",
+   "inviteUrl": "https://example.com/invite2",
+   "desc": "Nahirgi osh uchun taklifnoma"
+ }
+ 
+ 
+ 
+  
+  
+]
